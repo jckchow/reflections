@@ -9,3 +9,7 @@ Why might you want to always pull changes manually rather than having Git automa
 Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
 	fork is cloning on GitHub, cloning is copying from GitHub to local or from one local to another local, and branching is a copy of master for modifications
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+       So you can know where you work is relative to the remote
